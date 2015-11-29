@@ -1,0 +1,29 @@
+{
+  "name": "solid-cli",
+  "version": "0.1.0",
+  "description": "Command line tool for solid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solid/node-solid-cli"
+  },
+  "keywords": [
+    "solid",
+    "decentralized",
+    "web",
+    "command",
+    "line"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solid/node-solid-cli/issues"
+  },
+  "homepage": "https://github.com/solid/node-solid-cli",
+  "bin": {
+    "solid": "./index.js"
+  }
+}
